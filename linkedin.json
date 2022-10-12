@@ -1,0 +1,105 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anton Karlsson",
+    "label": "Machine learning-utvecklare",
+    "image": "",
+    "email": "anton93karlsson@gmail.com",
+    "phone": "0730 64 26 51",
+    "url": "",
+    "summary": "En teknikintresserad matematiker som har specialiserat sig inom statistik, finans och beräkningsmatematik, och älskar lära sig nya koncept och lösa svåra problem som ger resultat. \n\nJag kan se mig själv att jobba inom alla branscher, eftersom det är den bakomliggande lösningen och matematiken som jag finner intressant.  ",
+    "location": {
+      "countryCode": "SE",
+      "address": "Linköping"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anton-karlsson-matematiker",
+        "url": "https://www.linkedin.com/in/anton-karlsson-matematiker/"
+      },
+      {
+        "network": "GitHub",
+        "username": "startorama",
+        "url": "https://github.com/startoeagle"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Combitech Sverige",
+      "position": "Systemutvecklare",
+      "startDate": "2018-09-30",
+      "endDate": "",
+      "summary": "I denna roll så har jag jobbat med ett uppstartat team inom Machine vision. Jag har fått vara med från början och se det växa. Jag har haft stort intresse utveckla både mig själv och mitt team.",
+      "highlights": [
+          "Realtidssystem för multipla kameraströmmar. Ansvarat för teknikval och arbetat enskilt under en period innan projektet växte till tre personer. C/C++/Cuda",
+          "Arbetat i stort projekt för att automatisk generera data för machine learning.",
+          "Exjobbshandledare för flertal exjobb inom Machine learing. Ledarskap/Kompetensutveckling",
+          "AI- och algoritmsystem för att hitta oönskat material i återvinningsprocesser. En remote lösning där vi intregrerade Azure för att samla och träna data. I detta projekt så har jag också handletf lertal exjobb för att vi ska kunna pröva på flera lösningar när ny forskning publiceras. Azure/Python/Pytorch",
+          "Utvecklat stereosystem, med AI, för att hitta position och orientering. C++/Python",
+          "Undersökt olika kundförfrågningar, där jag är med och undersöker vilka tekniker som kan appliceras på projekt."
+      ],
+      "url": "https://www.linkedin.com/company/combitech-ab/",
+      "location": "Linköping, Östergötland, Sverige"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Linköpings universitet",
+      "area": "Matematik och statistik",
+      "studyType": "Masterexamen",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Linköpings universitet",
+      "area": "Matematik",
+      "studyType": "Kandidatexamen",
+      "startDate": "2012-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+
+  "languages": [
+    {
+      "language": "sv",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Engelska"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Svenska"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "skills": [
+      {
+          "name": "Utveckling",
+          "level": "",
+          "keywords": ["C", "C++", "Cuda", "Matlab","Python", "Pytorch", "Keras", "Rust", "CMake", "Meson", "Haskell", "Linux", "Azure"]
+      },
+       {
+          "name": "Teori",
+          "level": "",
+          "keywords": ["Statistik", "Optimering", "Finans", "Maskininlärning"]
+      }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
