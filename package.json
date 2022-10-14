@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jsonresume-theme-actual": "^0.2.1",
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-elegant-leonth": "^1.0.3",
     "jsonresume-theme-eloquent-mod": "^4.23.0"

@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "https://raw.githubusercontent.com/                                                                                                                               jsonresume/resume-schema/v1.0.0/schema.                           json",
   "basics": {
     "name": "Anton Karlsson",
     "label": "Machine learning-utvecklare",
@@ -7,7 +7,7 @@
     "email": "anton93karlsson@gmail.com",
     "phone": "0730 64 26 51",
     "url": "",
-    "summary": "En teknikintresserad matematiker som har specialiserat sig inom statistik, finans och beräkningsmatematik, och älskar lära sig nya koncept och lösa svåra problem som ger resultat. \n\nJag kan se mig själv att jobba inom alla branscher, eftersom det är den bakomliggande lösningen och matematiken som jag finner intressant.  ",
+    "summary": "En teknikintresserad matematiker som har specialiserat sig inom statistik, finans och beräkningsmatematik.\n\n                                                 Jag är intresserad av att lära mig och att lära ut andra, och galen i att testa nya programmeringsspråk",
     "location": {
       "countryCode": "SE",
       "address": "Linköping"
@@ -31,14 +31,14 @@
       "position": "Systemutvecklare",
       "startDate": "2018-09-30",
       "endDate": "",
-      "summary": "I denna roll så har jag jobbat med ett uppstartat team inom Machine vision. Jag har fått vara med från början och se det växa. Jag har haft stort intresse utveckla både mig själv och mitt team.",
+      "summary": "I denna roll så har                                                                                                                                          jag                                                               jobbat med ett uppstartat team inom Machine vision. Jag har fått vara med från början och se det växa. Jag har haft stort intresse utveckla både mig själv och mitt team.",
       "highlights": [
-          "Realtidssystem för multipla kameraströmmar. Ansvarat för teknikval och arbetat enskilt under en period innan projektet växte till tre personer. C/C++/Cuda",
-          "Arbetat i stort projekt för att automatisk generera data för machine learning.",
-          "Exjobbshandledare för flertal exjobb inom Machine learing. Ledarskap/Kompetensutveckling",
-          "AI- och algoritmsystem för att hitta oönskat material i återvinningsprocesser. En remote lösning där vi intregrerade Azure för att samla och träna data. I detta projekt så har jag också handletf lertal exjobb för att vi ska kunna pröva på flera lösningar när ny forskning publiceras. Azure/Python/Pytorch",
+          "Realtidssystem för multipla kameraströmmar. Ansvarat för teknikval och arbetat enskilt under en period innan pro                                                    jektet växte till tre personer. C/C++/Cuda",
+          "Arbetat i stort pro                                                                                                                                                 jekt för att automatisk generera data för machine learning. Python/Docker/Srum(Less)",
+          "Ex                                                                                                                                                                  jobbshandledare för flertal ex                                    jobb inom Machine learing. Ledarskap/Kompetensutveckling",
+          "AI- och algoritmsystem för att hitta oönskat material i återvinningsprocesser. En remote lösning där vi intregrerade Azure för att samla och träna data. I detta projekt så har                                                       jag också handletf lertal ex                        jobb för att vi ska kunna pröva på flera lösningar när ny forskning publiceras. Azure/Python/Pytorch",
           "Utvecklat stereosystem, med AI, för att hitta position och orientering. C++/Python",
-          "Undersökt olika kundförfrågningar, där jag är med och undersöker vilka tekniker som kan appliceras på projekt."
+          "Undersökt olika kundförfrågningar, där                                                                                                                              jag är med och undersöker vilka tekniker som kan appliceras på projekt."
       ],
       "url": "https://www.linkedin.com/company/combitech-ab/",
       "location": "Linköping, Östergötland, Sverige"
@@ -71,26 +71,31 @@
 
   "languages": [
     {
-      "language": "sv",
-      "fluency": "Native Speaker"
-    },
-    {
       "fluency": "Professional Working",
       "language": "Engelska"
     },
     {
       "fluency": "Native Speaker",
       "language": "Svenska"
-    }
+        }
   ],
-  "interests": [],
+  "interests": [
+      {
+          "name": "Triathlon",
+          "keywords": []
+      },
+      {
+          "name": "Musik",
+          "keywords": ["Gitarr", "Piano"]
+      }
+  ],
   "references": [],
-  "projects": [],
+  "pro                                                                                                                                                                         jects": [],
   "skills": [
       {
           "name": "Utveckling",
           "level": "",
-          "keywords": ["C", "C++", "Cuda", "Matlab","Python", "Pytorch", "Keras", "Rust", "CMake", "Meson", "Haskell", "Linux", "Azure"]
+        "keywords": ["C", "C++", "Cuda", "Matlab","Python", "Pytorch", "Keras",  "Docker", "Rust", "CMake", "Meson", "Haskell", "Linux", "Azure", "Javascript", "Typescript"]
       },
        {
           "name": "Teori",
